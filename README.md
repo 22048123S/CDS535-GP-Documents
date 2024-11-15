@@ -1,0 +1,3 @@
+<h1>Abstract</h1>
+
+This study focuses on the impact of educational factors on students and analyzes the relevant dataset using data mining techniques. The results show that the acquisition of educational resources, parental involvement, and peer influence are closely related to students’ test scores. High- quality resources are beneficial for improving scores, active parental par- ticipation promotes learning, and positive peer relationships are benefi- cial for performance. This study provides a basis for educational decision- making and helps promote educational development and student growth.
